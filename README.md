@@ -1,4 +1,4 @@
-# BreadcrumbsReveal-heritage-values-and-attributes-from-textual-data_ multi-label text classification model
+# Reveal-heritage-values-and-attributes-from-textual-data_ multi-label text classification model
 # Code Overview
 Importing Libraries:
 We start by importing necessary libraries, including numpy and bert-embedding.
